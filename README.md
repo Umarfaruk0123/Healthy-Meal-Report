@@ -4,11 +4,12 @@ A complete nutrition and meal analytics project built using **Microsoft Power BI
 
 ---
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-6B4FBB?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![KPI Analysis](https://img.shields.io/badge/Project-KPI%20Analysis-0078D4?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
